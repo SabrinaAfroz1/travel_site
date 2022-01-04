@@ -1,0 +1,136 @@
+body{
+background:#292929;
+width:90%;
+margin:0 auto;
+font-family:tahoma;	
+}
+
+.home{
+	background:url(images/homeimage.jpg);
+	background-repeat:no-repeat;
+	background-size:100%;
+	background-position:center;
+	height: 500px;
+	padding:20px 60px;
+}
+.icon{
+	color:white;
+	font-size:20px;
+	float:right;
+	
+}
+.center-text{
+	text-align:center;
+	color:white;
+	font-size:26px;
+}
+
+.center-text input[type=text]{
+	
+	padding: 10px 10px;
+	width:300px;
+	border:none;
+	
+}
+.center-text input[type=text]:focus{
+	 outline:none;
+	 background:wheat;
+	
+}
+button{
+	background:#fd4f32;
+	padding:10px 20px;
+	margin-left: -10px;
+	border:none;
+	color:white;
+}
+button:focus{
+	 outline:none;
+	 background:wheat;
+	
+}
+.top-destination{
+	background:#eeeeee;
+	height:400px;
+	padding:30px 100px;
+}
+.image-text{
+	
+	float:left;
+	margin-right:10px;
+}
+.text{
+	
+	width:220px;
+	background:white;
+	padding:10px;
+	margin-top:-4px;
+}
+.textonimage{
+ position:relative;
+ }
+ 
+ 
+.bottom-left{
+position:absolute;
+bottom:10px;
+right:20px; 
+} 
+ 
+ 
+ 
+.before{
+	background:white;
+	height:400px;
+	padding:30px 100px;
+}
+
+.before-text{
+	margin-right:40px;
+}
+.textone{
+	float:left;
+	width:260px;
+	background:white;
+	padding:15px;
+	margin-right:30px;
+
+}
+.subscribe{
+	clear:both;
+	text-align:center;
+	color:black;
+	font-size:26px;
+}
+
+.subscribe input[type=text]{
+	background:#eeeeee;
+	padding: 10px 10px;
+	width:300px;
+	border:none;
+	
+}
+.subscribe input[type=text]:focus{
+	 outline:none;
+	 background:wheat;
+	
+}
+.end{
+	background:#eeeeee;
+	height:30px;
+	padding:5px 25px;
+
+}
+.endd{
+     float:right;
+}
+.endd a{
+     
+	text-decoration:none;
+    color:black;
+	margin-right:8px;
+	font-weight:bold;
+  
+}
+
+
